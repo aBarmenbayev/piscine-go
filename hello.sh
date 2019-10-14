@@ -1,4 +1,3 @@
 #hello=world
 
-
-Hello aBarmenbayev!
+echo 'Hello aBarmenbayev!'
